@@ -71,4 +71,4 @@ f(0) = Σ(i=0 to k-1) y_i * Π(j=0 to k-1, j≠i) (0 - x_j) / (x_i - x_j)
 - **Test Case 2**: Complex case with 10 shares, needing 7 for polynomial of degree 6
 
 ## Author
-Implementation by GitHub Copilot for HASHIRA project assignment.
+Implementation by Saraswati Chandra for HASHIRA project assignment.
